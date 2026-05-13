@@ -20,6 +20,9 @@ const characters = [
 const picture = document.getElementById('picture');
 const charname = document.getElementById('name');
 const rollBtn = document.getElementById('rollBtn');
+const today = new Date().toDateString();
+const savedCharacter = localStorage.getItem('character');
+const savedDate = localStorage.getItem('date');
 
 function displayCharacter (character) {
     picture.src = character.image;
@@ -27,12 +30,26 @@ function displayCharacter (character) {
     charname.innerText = character.name;
 }
 
+function saveCharacter (character) {
+    localStorage.setItem('character', JSON.stringify(character));
+    localStorage.setItem('date', today)
+}
+
+if (savedCharacter && savedDate === today) {
+    const character = JSON.parse(savedCharacter);
+    displayCharacter(character);
+
+    rollBtn.disabled = true;
+    rollBtn.innerText = 'Come back tomorrow'
+}
+
 rollBtn.onclick = function () {
     const randomIndex = Math.floor(Math.random() * characters.length);
     const character = characters[randomIndex];
     displayCharacter(character);
-    localStorage.setItem(
-        'character',
-        JSON.stringify(character)
-    );
+
+    saveCharacter(character);
+    rollBtn.disabled = true;
+    rollBtn.innerText = 'Come back tomorrow'
+
 }

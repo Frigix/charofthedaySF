@@ -5,7 +5,7 @@ const characters = [
     },
     {
         name: 'Artoria Pendragon',
-        image: './img/tm/saber.jpg'
+        image: './img/tm/fsn/saber.jpg'
     },
     {
         name: 'Ryougi Shiki',

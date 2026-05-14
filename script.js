@@ -33,9 +33,44 @@ const characters = [
     },
     {
         name: 'Aozaki Aoko',
-        image: './img/tm/aoko.jpg'
+        image: './img/tm/mh/aoko.jpg'
     },
-
+    {
+        name: 'Kuonji Alice',
+        image: './img/tm/mh/alice.jpg'
+    },
+    {
+        name: 'May Riddell Archelot',
+        image: './img/tm/mh/may.jpg'
+    },
+    {
+        name: 'Lugh Beowulf',
+        image: './img/tm/mh/beo.webp'
+    },
+    {
+        name: 'Tobimaru Tsukiji',
+        image: './img/tm/mh/tobimaru.jpg'
+    },
+    {
+        name: 'Kojika Kumari',
+        image: './img/tm/mh/kumari.jpg'
+    },
+    {
+        name: 'Housuke Kinomi',
+        image: './img/tm/mh/kinomi.jpg'
+    },
+    {
+        name: 'Suse Ritsuka',
+        image: './img/tm/mh/ritsuka.jpg'
+    },
+    {
+        name: 'Suse Yuika',
+        image: './img/tm/mh/yuika.jpg'
+    },
+    {
+        name: 'Fumizuka Eiri',
+        image: './img/tm/mh/eiri.webp'
+    }
 ]
 
 const picture = document.getElementById('picture');

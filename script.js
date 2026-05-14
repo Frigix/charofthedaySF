@@ -9,12 +9,33 @@ const characters = [
     },
     {
         name: 'Ryougi Shiki',
-        image: './img/tm/ryougi.jpg'
+        image: './img/tm/knk/ryougi.jpg'
+    },
+    {
+        name: 'Araya Souren',
+        image: './img/tm/knk/araya.webp'
+    },
+    {
+        name: 'Kokutou Mikiya',
+        image: './img/tm/knk/mikiya.webp'
+    },
+    {
+        name: 'Kokutou Azaka',
+        image: './img/tm/knk/azaka.webp'
+    },
+    {
+        name: 'Asagami Fujino',
+        image: './img/tm/knk/fujino.webp'
+    },
+    {
+        name: 'Aozaki Touko',
+        image: './img/tm/knk/touko.webp'
     },
     {
         name: 'Aozaki Aoko',
         image: './img/tm/aoko.jpg'
-    }
+    },
+
 ]
 
 const picture = document.getElementById('picture');
@@ -35,18 +56,18 @@ function saveCharacter (character) {
     localStorage.setItem('date', today)
 }
 
-if (savedCharacter && savedDate === today) {
-    const character = JSON.parse(savedCharacter);
-    displayCharacter(character);
-    rollBtn.disabled = true;
-    rollBtn.innerText = 'Come back tomorrow'
-}
+//if (savedCharacter && savedDate === today) {
+//    const character = JSON.parse(savedCharacter);
+//    displayCharacter(character);
+//    rollBtn.disabled = true;
+//    rollBtn.innerText = 'Come back tomorrow'
+//}
 
 rollBtn.onclick = function () {
     const randomIndex = Math.floor(Math.random() * characters.length);
     const character = characters[randomIndex];
     displayCharacter(character);
     saveCharacter(character);
-    rollBtn.disabled = true;
-    rollBtn.innerText = 'Come back tomorrow'
+//    rollBtn.disabled = true;
+//    rollBtn.innerText = 'Come back tomorrow'
 }

@@ -98,6 +98,14 @@ const characters = [
     {
         name: 'Fumizuka Eiri',
         image: './img/tm/mh/eiri.webp'
+    },
+    {
+        name: 'Emiya Shiro',
+        image: '.img/tm/fsn/shiro.jpg'
+    },
+    {
+        name: 'Illyasviel von Einzbern',
+        image: './img/tm/fsn/illya.jpg'
     }
 ]
 

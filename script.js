@@ -1,7 +1,35 @@
 const characters = [
     {
         name: 'Arcueid Brunestud',
-        image: './img/tm/arc.jpg'
+        image: './img/tm/t/arc.jpg'
+    },
+    {
+        name: 'Tohno Shiki',
+        image: './img/tm/t/tohno.png'
+    },
+    {
+        name: 'Tohno Akiha',
+        image: './img/tm/t/akiha.webp'
+    },
+    {
+        name: 'Hisui',
+        image: './img/tm/t/hisui.webp'
+    },
+    {
+        name: 'Yumizuka Satsuki',
+        image: './img/tm/t/satsuki.webp'
+    },
+    {
+        name: 'Len',
+        image: './img/tm/t/len.webp'
+    },
+    {
+        name: 'Kohaku',
+        image: './img/tm/t/kohaku.webp'
+    },
+    {
+        name: 'Ciel',
+        image: './img/tm/t/ciel.webp'
     },
     {
         name: 'Artoria Pendragon',

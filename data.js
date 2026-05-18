@@ -127,11 +127,11 @@ const characters = [
     },  
     {
         name: 'Aude de Diane-Andenne',
-        image: './img/chars/Aude_de_Diane-Andennebeta.webp'
+        image: './img/chars/Aude_de_Diane-Andenne(beta).webp'
     },  
     {
         name: 'Aude Neirflor de Diane-Andenne',
-        image: './img/chars/Aude_de_Diane-Andenne_3Dark_Timeline.webp'
+        image: './img/chars/Aude_de_Diane-Andenne_3(Dark_Timeline).webp'
     },       
     {
         name: 'Thomas Edison',

@@ -6,7 +6,7 @@ const characters = [
     },
     {
         name: 'Alf Merik',
-        image: './img/chars/al_merik.webp',
+        image: './img/chars/alf_merik.webp',
         wiki: 'https://servantfarm.fandom.com/fr/wiki/Alf_Merik'
     },
     {

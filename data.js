@@ -541,8 +541,68 @@ const characters = [
         image: './img/chars/Aruki_Ren.jpg',
         wiki: 'https://servantfarm.fandom.com/fr/wiki/Aruki_Ren',
     },
-   {
+    {
         name: 'Hana Trump & Spencer Mill',
         image: './img/chars/hana_et_spencer.png',
-    }
+    },
+    {
+        name: 'Chiminigagua (End Of Freebies)',
+        image: './img/chars/Chiminigagua_(End_Of_Freebies).webp',
+    },
+    {
+        name: 'David Timaeus Valdamjong',
+        image: './img/chars/David_Timaeus_Valdamjong.webp',
+    },
+    {
+        name: 'Evil McEvil',
+        image: './img/chars/Evil_McEvil.webp',
+    },
+    {
+        name: 'Ezekiel von Madomeister',
+        image: './img/chars/Ezekiel_von_Madomeister.webp',
+    },
+    {
+        name: 'Garzaleus Richardios (le Rédempteur)',
+        image: './img/chars/Garzaleus_Richardios_(le_Rédempteur).webp',
+    },
+    {
+        name: 'Ghetis von Mado',
+        image: './img/chars/Ghetis_von_Mado.webp',
+    },
+    {
+        name: 'Gola Betelgeuse Schwarzschild',
+        image: './img/chars/Gola_Betelgeuse_Schwarzschild.webp',
+    },
+    {
+        name: 'Isabella (Absolute Annihilation)',
+        image: './img/chars/Isabella_(Absolute_Annihilation).webp',
+    },
+    {
+        name: 'Le Professeur',
+        image: './img/chars/Le_Professeur.webp',
+    },
+    {
+        name: 'Lex Diapason Harmonia',
+        image: './img/chars/Lex_Diapason_Harmonia.webp',
+    },
+    {
+        name: 'M4-D0',
+        image: './img/chars/M4-D0.webp',
+    },
+    {
+        name: 'Melie Melo',
+        image: './img/chars/Melie_Melo.webp',
+    },
+    {
+        name: 'Michalis II von_Mado',
+        image: './img/chars/Michalis_II_von_Mado.webp',
+    },
+    {
+        name: 'Ningen Et Anthropologos (Human.)',
+        image: './img/chars/Ningen_Et_Anthropologos_(Human.).webp',
+    },
+    {
+        name: 'Tulipia',
+        image: './img/chars/Tulipia.webp',
+    },
 ]

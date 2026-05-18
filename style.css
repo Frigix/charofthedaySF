@@ -92,7 +92,7 @@ h2 {
 }
 
 .sfDexItem:hover .label,
-.sfDexItem:active .label {
+.sfDexItem:focus .label {
   opacity: 1;
 }
 

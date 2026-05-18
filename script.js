@@ -51,6 +51,7 @@ function displaySFDex() {
 
     let item = document.createElement('div');
     item.classList.add('sfDexItem');
+    item.addEventListener("touchstart", function() {}, true);
 
     const img = document.createElement('img');
     img.src = localItem ? it.image : "./img/unknown.jpg";

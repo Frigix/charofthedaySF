@@ -3,22 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Discover your daily TypeMoon character.">
-    <meta property="og:title" content="TypeMoon Character of the Day">
-    <meta property="og:description" content="Find your daily TypeMoon character!">
+    <meta name="description" content="Discover your daily Servant Farm character.">
+    <meta property="og:title" content="Servant Farm Character of the Day">
+    <meta property="og:description" content="Find your daily ServantFarm character!">
     <meta name="theme-color" content="#2b2f4a">
     <link rel="stylesheet" href="style.css">
-    <title>Your TypeMoon Character of the Day</title>
+    <title>Your Servant Farm Character of the Day</title>
 </head>
 <body>
     <header>
-        <h1>Your TypeMoon character of the day!</h1>
+        <h1>Your Servant Farm character of the day!</h1>
     </header>
     <main>
         <h2>Your character is:</h2>
         <section class="character">
             <div class="frame">
-                <img id="picture" src="img/unknown.jpg" alt="unknown">
+                <a id="wiki">
+                    <img id="picture" src="img/unknown.jpg" alt="unknown">
+                </a>
             </div>
             <p id="name">Roll!</p>
         </section>
@@ -27,6 +29,7 @@
             <button id="rollBtn">roll</button>
         </section>
     </main>
+    <script src="data.js"></script>
     <script src="script.js"></script>
 </body>
 </html>

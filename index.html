@@ -14,21 +14,32 @@
     <header>
         <h1>Your Servant Farm character of the day!</h1>
     </header>
+
     <main>
         <h2>Your character is:</h2>
+
         <section class="character">
             <div class="frame">
                 <a id="wiki">
                     <img id="picture" src="img/unknown.jpg" alt="unknown">
                 </a>
             </div>
+
             <p id="name">Roll!</p>
         </section>
+
         <section id="roll">
             <p>Roll for your character!</p>
-            <button id="rollBtn">roll</button>
+
+            <button id="rollBtn" disabled></button>
         </section>
     </main>
+
+    <h2 id="sfDexTitle">SF Dex</h2>
+    <p id="sfDexCount"></p>
+
+    <div id="sfDex"></div>
+
     <script src="data.js"></script>
     <script src="script.js"></script>
 </body>

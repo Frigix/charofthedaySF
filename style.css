@@ -55,7 +55,7 @@ h2 {
 #picture {
     width: 22rem;
     height: 22rem;
-    object-fit: cover;
+    object-fit: contain;
     object-position: center;
     display: block;
     border-radius: 0.5rem;

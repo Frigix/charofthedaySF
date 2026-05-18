@@ -91,7 +91,8 @@ h2 {
   transition: opacity 0.2s ease;
 }
 
-.sfDexItem:hover .label {
+.sfDexItem:hover .label,
+.sfDexItem:active .label {
   opacity: 1;
 }
 

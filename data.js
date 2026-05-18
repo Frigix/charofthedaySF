@@ -1,7 +1,7 @@
 const characters = [
     {
         name: 'Romulus Augustus',
-        image: './img/chars/Romulus Augustus',
+        image: './img/chars/Romulus_Augustus',
         wiki: 'https://servantfarm.fandom.com/fr/wiki/Romulus_Augustus',
     },
     {

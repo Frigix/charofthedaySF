@@ -605,4 +605,189 @@ const characters = [
         name: 'Tulipia',
         image: './img/chars/Tulipia.webp',
     },
+   {
+        name: 'Akaten (Ancient Sands)',
+        image: './img/chars/Akaten_AS.webp',
+        wiki: 'https://servantfarm.fandom.com/fr/wiki/Akaten_(Ancient_Sands)',
+    },
+   {
+        name: 'Alex Hangyaku',
+        image: './img/chars/Alex.webp',
+        wiki: 'https://servantfarm.fandom.com/fr/wiki/Alex_Hangyaku',
+    },
+   {
+        name: 'Allure Rapide',
+        image: './img/chars/Allure_Rapide.webp',
+        wiki: 'https://servantfarm.fandom.com/fr/wiki/Allure_Rapide',
+    },
+   {
+        name: 'Amadea Mado',
+        image: './img/chars/Amadea_Mado.webp',
+        wiki: 'https://servantfarm.fandom.com/fr/wiki/Amadea_Mado_(Dark_Timeline)',
+    },
+   {
+        name: 'Argon IV Obratz',
+        image: './img/chars/The_Liaison.webp',
+        wiki: 'https://servantfarm.fandom.com/fr/wiki/Argon_IV_Obratz',
+    },
+   {
+        name: 'Argon Obratz',
+        image: './img/chars/Argon_Obratz.webp',
+        wiki: 'https://servantfarm.fandom.com/fr/wiki/Argon_Obratz',
+    },
+   {
+        name: 'Astea',
+        image: './img/chars/58f77cb91fd9f470c2a1c5cadf64a5386ebb9e57.png',
+        wiki: 'https://servantfarm.fandom.com/fr/wiki/Astea',
+    },
+   {
+        name: 'Ateleas Hephagos',
+        image: './img/chars/Ateleas_I.webp',
+        wiki: 'https://servantfarm.fandom.com/fr/wiki/Ateleas_Hephagos',
+    },
+   {
+        name: 'Aurora Elaytalia',
+        image: './img/chars/Aurora_Elaytalia.webp',
+        wiki: 'https://servantfarm.fandom.com/fr/wiki/Aurora_Elaytalia',
+    },
+   {
+        name: 'Bailong Jayasawal',
+        image: './img/chars/Bailong_Jayasawal.webp',
+        wiki: 'https://servantfarm.fandom.com/fr/wiki/Bailong_Jayasawal',
+    },
+   {
+        name: 'Cage Siya',
+        image: './img/chars/Cage_Siya.webp',
+        wiki: 'https://servantfarm.fandom.com/fr/wiki/Cage_Siya',
+    },
+   {
+        name: 'Chasle de Neuilly von Mado',
+        image: './img/chars/ChasledeNeuillyvonMado.webp',
+        wiki: 'https://servantfarm.fandom.com/fr/wiki/Chasle_de_Neuilly_von_Mado',
+    },
+   {
+        name: 'Chelsea Crawford',
+        image: './img/chars/Chelsea.webp',
+        wiki: 'https://servantfarm.fandom.com/fr/wiki/Chelsea_Crawford',
+    },
+   {
+        name: 'Emmanuel Besnier',
+        image: './img/chars/Besnier.webp',
+        wiki: 'https://servantfarm.fandom.com/fr/wiki/Emmanuel_Besnier',
+    },
+   {
+        name: 'Dead Vicinity',
+        image: './img/chars/DeadVicinity.webp',
+        wiki: 'https://servantfarm.fandom.com/fr/wiki/Kanya_Ritchanok',
+    },
+   {
+        name: 'Kim Il-sung (Rider)',
+        image: './img/chars/U-Olga.webp',
+        wiki: 'https://servantfarm.fandom.com/fr/wiki/Kim_Il-sung_(Rider)',
+    },
+   {
+        name: 'Lapine Lunaire',
+        image: './img/chars/New_deviantart_profile_picture_by_hyperkimara-dab0cme.webp',
+        wiki: 'https://servantfarm.fandom.com/fr/wiki/Lapine_Lunaire',
+    },
+   {
+        name: 'Loxley Wayne',
+        image: './img/chars/Loxley_Wayne.webp',
+        wiki: 'https://servantfarm.fandom.com/fr/wiki/Loxley_Wayne',
+    },
+   {
+        name: 'Lucie Boulanger',
+        image: './img/chars/LucieBoulanger.webp',
+        wiki: 'https://servantfarm.fandom.com/fr/wiki/Lucie_Boulanger',
+    },
+   {
+        name: 'Luraedron',
+        image: './img/chars/Draedon.webp',
+        wiki: 'https://servantfarm.fandom.com/fr/wiki/Luraedron',
+    },
+   {
+        name: 'MADO',
+        image: './img/chars/MADO.webp',
+        wiki: 'https://servantfarm.fandom.com/fr/wiki/MADO',
+    },
+   {
+        name: 'Marianne von Mado',
+        image: './img/chars/Marianne_von_Mado.webp',
+        wiki: 'https://servantfarm.fandom.com/fr/wiki/Marianne_von_Mado',
+    },
+   {
+        name: 'Matthew Linegramm',
+        image: './img/chars/Matthew_Linegramm.webp',
+        wiki: 'https://servantfarm.fandom.com/fr/wiki/Matthew_Linegramm',
+    },
+   {
+        name: 'Miguel Almavida',
+        image: './img/chars/Miguel_Almavida.webp',
+        wiki: 'https://servantfarm.fandom.com/fr/wiki/Miguel_Almavida',
+    },
+   {
+        name: 'Mizuki Ryoko',
+        image: './img/chars/Mizuki.webp',
+        wiki: 'https://servantfarm.fandom.com/fr/wiki/Mizuki_Ryoko',
+    },
+   {
+        name: 'Nikiah Roi (Chaos Timeline)',
+        image: './img/chars/Ni_Roi_Chaos_Timeline.webp',
+        wiki: 'https://servantfarm.fandom.com/fr/wiki/Nikiah_Roi_(Chaos_Timeline)',
+    },
+   {
+        name: 'Pagius Pangeux',
+        image: './img/chars/Pagius.webp',
+        wiki: 'https://servantfarm.fandom.com/fr/wiki/Pagius_Pangeux',
+    },
+   {
+        name: 'Pandora Genesis',
+        image: './img/chars/PandoraGenesis.webp',
+        wiki: 'https://servantfarm.fandom.com/fr/wiki/Pandora_Genesis',
+    },
+   {
+        name: 'Raven Lostlake',
+        image: './img/chars/RavenLostlake.webp',
+        wiki: 'https://servantfarm.fandom.com/fr/wiki/Raven_Lostlake',
+    },
+   {
+        name: 'Ray Fladeron',
+        image: './img/chars/Ray_don_Mado.webp',
+        wiki: 'https://servantfarm.fandom.com/fr/wiki/Ray_Fladeron',
+    },
+   {
+        name: 'Rodion Vassiliévitch',
+        image: './img/chars/RodionVassili%3Fvitch.webp',
+        wiki: 'https://servantfarm.fandom.com/fr/wiki/Rodion_Vassiliévitch',
+    },
+   {
+        name: 'Ruby Rose',
+        image: './img/chars/Ruby_Rose_fille.webp',
+        wiki: 'https://servantfarm.fandom.com/fr/wiki/Ruby_Rose_(Ritter)',
+    },
+   {
+        name: 'Thérésa Newgate',
+        image: './img/chars/Enemy_The_Herta.webp',
+        wiki: 'https://servantfarm.fandom.com/fr/wiki/Thérésa_Newgate',
+    },
+   {
+        name: 'Zarathustra',
+        image: './img/chars/Zarathustra.webp',
+        wiki: 'https://servantfarm.fandom.com/fr/wiki/Zarathustra',
+    },
+   {
+        name: 'Zenevo Giullare',
+        image: './img/chars/Zenevo.webp',
+        wiki: 'https://servantfarm.fandom.com/fr/wiki/Zenevo_Giullare',
+    },
+   {
+        name: 'Élise Bonacieu',
+        image: './img/chars/Elise.webp',
+        wiki: 'https://servantfarm.fandom.com/fr/wiki/Élise_Bonacieu',
+    },
+   {
+        name: 'Élise Bonacieu',
+        image: './img/chars/Elise.webp',
+        wiki: 'https://servantfarm.fandom.com/fr/wiki/Élise_Bonacieu',
+    },
 ]

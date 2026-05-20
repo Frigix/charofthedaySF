@@ -1181,4 +1181,196 @@ const characters = [
         name: "Yu Geoul",
         image: "./img/chars/Yu_Geoul.jpg"
     },
+    {
+        name: "Akari Hishko",
+        image: "./img/chars/Akari_Hishko.png"
+    },
+    {
+        name: "Amatsuyu Solaire",
+        image: "./img/chars/Amatsuyu_Solaire.png"
+    },
+    {
+        name: "Apophis",
+        image: "./img/chars/Apophis.png"
+    },
+    {
+        name: "Apophis (Humanoïde)",
+        image: "./img/chars/Apophis_(Humanoïde).png"
+    },
+    {
+        name: "Astley Nice Traïe",
+        image: "./img/chars/Astley_Nice_Traïe.png"
+    },
+    {
+        name: "Barack Obama",
+        image: "./img/chars/Barack_Obama.png"
+    },
+    {
+        name: "Candice Art",
+        image: "./img/chars/Candice_Art.png"
+    },
+    {
+        name: "Charon (Festival Timeline)",
+        image: "./img/chars/Charon_(Festival_Timeline).webp"
+    },
+    {
+        name: "Courtney Art",
+        image: "./img/chars/Courtney_Art.png"                                                                                                                 
+    },
+    {
+        name: "Courtsey Art",
+        image: "./img/chars/Courtsey_Art.png"
+    },
+    {
+        name: "Dustin Dwight",
+        image: "./img/chars/Dustin_Dwight.png"
+    },
+    {
+        name: "E. Dark (F)",
+        image: "./img/chars/E._Dark_(F).png"
+    },
+    {
+        name: "E. Dark (H)",
+        image: "./img/chars/E._Dark_(H).jpg"
+    },
+    {
+        name: "Elise Light",
+        image: "./img/chars/Elise_Light.png"
+    },
+    {
+        name: "Empyrean",
+        image: "./img/chars/Empyrean.png"
+    },
+    {
+        name: "End of End of Dreams",
+        image: "./img/chars/End_of_End_of_Dreams.png"
+    },
+    {
+        name: "Gog et Magog",
+        image: "./img/chars/Gog_et_Magog.png"
+    },
+    {
+        name: "HEX(4a)",
+        image: "./img/chars/HEX(4a).jpg"
+    },
+    {
+        name: "JEREMY Art (Festival Timeline)",
+        image: "./img/chars/JEREMY_Art_(Festival_Timeline).png"
+    },
+    {
+        name: "Kevl Art",
+        image: "./img/chars/Kevl_Art.png"
+    },
+    {
+        name: "Le Clown Art",
+        image: "./img/chars/Le_Clown_Art.png"
+    },
+    {
+        name: "Le Clown Art (Idol)",
+        image: "./img/chars/Le_Clown_Art_(Idol).png"
+    },
+    {
+        name: "Le_Dragon_Mécanique, Exécuteur de l’Apocalypse Totale",
+        image: "./img/chars/Le_Dragon_Mécanique,_Exécuteur_de_l’Apocalypse_Totale.png"
+    },
+    {
+        name: "Le Fictionnaliste",
+        image: "./img/chars/Le_Fictionnaliste.png"
+    },
+    {
+        name: "Le PROTOTYPE",
+        image: "./img/chars/Le_PROTOTYPE.png"
+    },
+    {
+        name: "Le PROTOTYPE (Festival Timeline)",
+        image: "./img/chars/Le_PROTOTYPE_(Festival_Timeline).png"
+    },
+    {
+        name: "Le rat Art",
+        image: "./img/chars/Le_rat_Art.png"                                                                                                                   
+    },
+    {
+        name: "Le singe Art",
+        image: "./img/chars/Le_singe_Art.png"
+    },
+    {
+        name: "Lunl",
+        image: "./img/chars/Lunl.png"
+    },
+    {
+        name: "LYA",
+        image: "./img/chars/LYA.png"
+    },
+    {
+        name: "Lénig Art",
+        image: "./img/chars/Lénig_Art.png"
+    },
+    {
+        name: "Madht",
+        image: "./img/chars/Madht.png"
+    },
+    {
+        name: "Malab Art",
+        image: "./img/chars/Malab_Art.png"
+    },
+    {
+        name: "Maria NewArt",
+        image: "./img/chars/Maria_NewArt.png"
+    },
+    {
+        name: "Null Art",
+        image: "./img/chars/Null_Art.jpg"
+    },
+    {
+        name: "Null Art (Festival Timeline)",
+        image: "./img/chars/Null_Art_(Festival_Timeline).png"
+    },
+    {
+        name: "Null Art (Love)",
+        image: "./img/chars/Null_Art_(Love).png"
+    },
+    {
+        name: "PoFr3",
+        image: "./img/chars/PoFr3.png"
+    },
+    {
+        name: "Préxée Art",
+        image: "./img/chars/Préxée_Art.png"
+    },
+    {
+        name: "Red Art",
+        image: "./img/chars/Red_Art.png"
+    },
+    {
+        name: "Remp Art",
+        image: "./img/chars/Remp_Art.png"
+    },
+    {
+        name: "Rick Astley",
+        image: "./img/chars/Rick_Astley.png"
+    },
+    {
+        name: "Rosa Garcia",
+        image: "./img/chars/Rosa_Garcia.png"
+    },
+    {
+        name: "Steve Nickel Chrome Jobs",
+        image: "./img/chars/Steve_Nickel_Chrome_Jobs.png"                                                                                                     
+    },
+    {
+        name: "Sushika Hishko",
+        image: "./img/chars/Sushika_Hishko.png"
+    },
+    {
+        name: "Trick Art",
+        image: "./img/chars/Trick_Art.png"
+    },
+    {
+        name: "V. Art",
+        image: "./img/chars/V._Art.png"
+    },
+    {
+        name: "Xi Jinping",
+        image: "./img/chars/Xi_Jinping.png"
+    },
 ]

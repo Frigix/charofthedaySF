@@ -200,11 +200,7 @@ const characters = [
     {
         name: 'Ushirogami',
         image: './img/chars/Ushirogami.webp'
-    }, 
-    {
-        name: 'Seth',
-        image: './img/chars/Seth_5.webp'
-    }, 
+    },
     {
         name: 'Sydney Art',
         image: './img/chars/Sydney_1.webp'
@@ -862,10 +858,6 @@ const characters = [
         image: "./img/chars/Agnòs_Hayyim.jpg"
     },
     {
-        name: "Alex Hangyaku",
-        image: "./img/chars/Alex_Hangyaku.png"
-    },
-    {
         name: "Aliénor Trencart",
         image: "./img/chars/Aliénor_Trencart.jpg"
     },
@@ -1140,10 +1132,6 @@ const characters = [
     {
         name: "Styx Jonn",
         image: "./img/chars/Styx_Jonn.jpg"
-    },
-    {
-        name: "Sydney Art",
-        image: "./img/chars/Sydney_Art.webp"
     },
     {
         name: "Vandham Bladdyd",

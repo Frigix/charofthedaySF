@@ -101,6 +101,8 @@ if (localData.length && localData[0].date === today) {
 }
 
 if (DEBUG) {
+    console.log("DEBUG MODE ON");
+
     const names = new Set();
 
     characters.forEach(character => {

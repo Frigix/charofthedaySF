@@ -1373,4 +1373,144 @@ const characters = [
         name: "Xi Jinping",
         image: "./img/chars/Xi_Jinping.png"
     },
+    {
+        name: "Abe no Rei",
+        image: "./img/chars/Abe_no_Rei.webp"
+    },
+    {
+        name: "Akame Johnson Lewis",
+        image: "./img/chars/Akame_Johnson_Lewis.webp"
+    },
+    {
+        name: "Annabella Christensen",
+        image: "./img/chars/Annabella_Christensen.webp"
+    },
+    {
+        name: "Archer of Huaraz",
+        image: "./img/chars/Archer_of_Huaraz.webp"
+    },
+    {
+        name: "Assassin of Huaraz",
+        image: "./img/chars/Assassin_of_Huaraz.webp"                                                                                                          
+    },
+    {
+        name: "Berserker of Huaraz",
+        image: "./img/chars/Berserker_of_Huaraz.webp"
+    },
+    {
+        name: "Caster of Huaraz",
+        image: "./img/chars/Caster_of_Huaraz.webp"
+    },
+    {
+        name: "Ermynthrude Kaiser Eichelberger",
+        image: "./img/chars/Ermynthrude_Kaiser_Eichelberger.webp"
+    },
+    {
+        name: "Freida Kaiser Eichelberger",
+        image: "./img/chars/Freida_Kaiser_Eichelberger.webp"
+    },
+    {
+        name: "Goldwyn Kaiser Eichelberger",
+        image: "./img/chars/Goldwyn_Kaiser_Eichelberger.webp"
+    },
+    {
+        name: "Hansen Christensen",
+        image: "./img/chars/Hansen_Christensen.webp"
+    },
+    {
+        name: "James Nullah Robinson",
+        image: "./img/chars/James_Nullah_Robinson.webp"
+    },
+    {
+        name: "Johann Georg Faust VIII",
+        image: "./img/chars/Johann_Georg_Faust_VIII.webp"
+    },
+    {
+        name: "Jumeau",
+        image: "./img/chars/Jumeau.webp"
+    },
+    {
+        name: "Jumelle",
+        image: "./img/chars/Jumelle.webp"
+    },
+    {
+        name: "Karoline Kaiser Eichelberger",
+        image: "./img/chars/Karoline_Kaiser_Eichelberger.webp"                                                                                                
+    },
+    {
+        name: "Konrad Kyeser",
+        image: "./img/chars/Konrad_Kyeser.webp"
+    },
+    {
+        name: "Kṣitigarbha",
+        image: "./img/chars/Kṣitigarbha.webp"
+    },
+    {
+        name: "Lancer of Huaraz",
+        image: "./img/chars/Lancer_of_Huaraz.webp"
+    },
+    {
+        name: "La Femme mystérieuse",
+        image: "./img/chars/La_Femme_mystérieuse.webp"
+    },
+    {
+        name: "Marie-Anna_von_Mado",
+        image: "./img/chars/Marie-Anna_von_Mado.webp"
+    },
+    {
+        name: "Mynoghra (Sainte_Barbara)",
+        image: "./img/chars/Mynoghra_(Sainte_Barbara).webp"
+    },
+    {
+        name: "Nashoba",
+        image: "./img/chars/Nashoba.webp"
+    },
+    {
+        name: "Nyarlathotep (Dr._Mabuse)",
+        image: "./img/chars/Nyarlathotep_(Dr._Mabuse).webp"
+    },
+    {
+        name: "Orla Kaiser Eichelberger",
+        image: "./img/chars/Orla_Kaiser_Eichelberger.webp"
+    },
+    {
+        name: "Oscar Isaac Zoroastre Ambroise Diggs",
+        image: "./img/chars/Oscar_Isaac_Zoroastre_Ambroise_Diggs.webp"                                                                                        
+    },
+    {
+        name: "Paul Francis Kennedy",
+        image: "./img/chars/Paul_Francis_Kennedy.webp"
+    },
+    {
+        name: "Rider of Huaraz",
+        image: "./img/chars/Rider_of_Huaraz.webp"
+    },
+    {
+        name: "Rito del Rosario Majorana",
+        image: "./img/chars/Rito_del_Rosario_Majorana.webp"
+    },
+    {
+        name: "Saber of Huaraz",
+        image: "./img/chars/Saber_of_Huaraz.webp"
+    },
+    {
+        name: "Svenja Kaiser Eichelberger",
+        image: "./img/chars/Svenja_Kaiser_Eichelberger.webp"
+    },
+    {
+        name: "Takako Miki",
+        image: "./img/chars/Takako_Miki.webp"
+    },
+    {
+        name: "Xanthe Löwenstein-Wertheim",
+        image: "./img/chars/Xanthe_Löwenstein-Wertheim.webp"
+    },
+    {
+        name: "Yang Xiao Long",
+        image: "./img/chars/Yang_Xiao_Long.webp"
+    },
+    {
+        name: "Épicure",
+        image: "./img/chars/Épicure.webp"
+    },
 ]

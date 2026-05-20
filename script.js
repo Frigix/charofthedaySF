@@ -13,24 +13,28 @@ const localData = rawLocalData ? JSON.parse(rawLocalData) : [];
 
 function displayCharacter (character) {
     picture.src = character.image;
-    picture.alt = character.name;
+    picture.alt = getCharacterDisplayName(character);
     
     if (character.wiki) {
         wiki.href = character.wiki;
     }
 
-    charname.innerText = character.name;
+    charname.innerText = getCharacterDisplayName(character);
 }
 
 function saveCharacter(character) {
     localData.unshift(
         {
-            id: character.name,
+            id: character.key,
             date: today
         } 
     )
 
     localStorage.setItem(LOCAL_DATA_KEY, JSON.stringify(localData));
+}
+
+function getCharacterDisplayName(character) {
+    return character.displayName ? character.displayName : character.key
 }
 
 function disableRollButton() {
@@ -47,20 +51,20 @@ function displaySFDex() {
     var total = 0;
     var totalObtained = 0;
 
-  characters.forEach(it => {    
-    let localItem = localData.find(localIt => localIt.id === it.name);
+  characters.forEach(character => {
+    let localItem = localData.find(it => it.id === character.key);
 
     let item = document.createElement('div');
     item.classList.add('sfDexItem');
     item.addEventListener("touchstart", function() {}, true);
 
     const img = document.createElement('img');
-    img.src = localItem ? it.image : "./img/unknown.jpg";
-    img.alt = it.name;
+    img.src = localItem ? character.image : "./img/unknown.jpg";
+    img.alt = getCharacterDisplayName(character);
 
     const label = document.createElement('div');
     label.classList.add('label');
-    label.textContent = localItem ? it.name : "Not yet obtained";
+    label.textContent = localItem ? getCharacterDisplayName(character) : "Not yet obtained";
 
     item.appendChild(img);
     item.appendChild(label);
@@ -92,7 +96,7 @@ rollBtn.onclick = function () {
 
 if (localData.length && localData[0].date === today) {
     let characterId = localData[0].id;
-    let character = characters.find(it => it.name === characterId);
+    let character = characters.find(it => it.key === characterId);
 
     displayCharacter(character);
     disableRollButton();
@@ -103,15 +107,15 @@ if (localData.length && localData[0].date === today) {
 if (DEBUG) {
     console.log("DEBUG MODE ON");
 
-    const names = new Set();
+    const keys = new Set();
 
     characters.forEach(character => {
 
-        if (names.has(character.name)) {
-            console.error(`Duplicate name: ${character.name}`);
+        if (keys.has(character.key)) {
+            console.error(`Duplicate key: ${character.key}`);
         }
 
-        names.add(character.name);
+        keys.add(character.key);
 
         const img = new Image();
 
@@ -120,7 +124,15 @@ if (DEBUG) {
         };
 
         img.src = character.image;
-        saveCharacter(character);
+
+        if (character.wiki) {
+            fetch(character.wiki, { method: 'HEAD', mode: 'no-cors' })
+        }
+
+        let localItem = localData.find(it => it.id === character.key);
+        if (!localItem) {
+            saveCharacter(character);
+        }
     });
 }
 

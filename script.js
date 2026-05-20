@@ -1,4 +1,5 @@
 const LOCAL_DATA_KEY = 'localData';
+const DEBUG = false;
 
 const picture = document.getElementById('picture');
 const wiki = document.getElementById('wiki');
@@ -81,22 +82,44 @@ function displaySFDex() {
   sfDexCount.innerText = countText;
 }
 
-if (localData.length && localData[0].date === today) {
-    let characterId = localData[0].id;
-    let character = characters.find(it => it.name === characterId); 
-    
-    displayCharacter(character);
-    disableRollButton();
-} else {
-    enableRollButton();
-}
-
 rollBtn.onclick = function () {
     let randomIndex = Math.floor(Math.random() * characters.length);
     let character = characters[randomIndex];
 
     saveCharacter(character);
     location.reload();
+}
+
+if (localData.length && localData[0].date === today) {
+    let characterId = localData[0].id;
+    let character = characters.find(it => it.name === characterId);
+
+    displayCharacter(character);
+    disableRollButton();
+} else {
+    enableRollButton();
+}
+
+if (DEBUG) {
+    const names = new Set();
+
+    characters.forEach(character => {
+
+        if (names.has(character.name)) {
+            console.error(`Duplicate name: ${character.name}`);
+        }
+
+        names.add(character.name);
+
+        const img = new Image();
+
+        img.onerror = () => {
+            console.error(`Missing image: ${character.image}`);
+        };
+
+        img.src = character.image;
+        saveCharacter(character);
+    });
 }
 
 displaySFDex();

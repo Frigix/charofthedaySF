@@ -1,7 +1,7 @@
 const characters = [
     {
         name: 'Romulus Augustus',
-        image: './img/chars/Romulus_Augustus',
+        image: './img/chars/Romulus_Augustus.webp',
         wiki: 'https://servantfarm.fandom.com/fr/wiki/Romulus_Augustus',
     },
     {
@@ -19,7 +19,7 @@ const characters = [
     },  
     {
         name: 'Yamamoto Hitoshi',
-        image: './img/chars/Hitoshi.webpc'
+        image: './img/chars/Hitoshi.webp'
     },  
     {
         name: 'Carly',
@@ -376,7 +376,7 @@ const characters = [
     },
    {
         name: 'Cryo Reaper',
-        image: './img/chars/Cyro_Reaper.png',
+        image: './img/chars/Cryo_Reaper.png',
         wiki: 'https://servantfarm.fandom.com/fr/wiki/Cryo_Reaper',
     },
    {
@@ -431,7 +431,7 @@ const characters = [
     },
    {
         name: 'Steven Candish',
-        image: './img/chars/steven_candish.png',
+        image: './img/chars/steven_candish.webp',
         wiki: 'https://servantfarm.fandom.com/fr/wiki/Steven_Candish',
     },
    {
@@ -637,7 +637,7 @@ const characters = [
     },
    {
         name: 'Astea',
-        image: './img/chars/58f77cb91fd9f470c2a1c5cadf64a5386ebb9e57.png',
+        image: './img/chars/Astea.png',
         wiki: 'https://servantfarm.fandom.com/fr/wiki/Astea',
     },
    {
@@ -687,7 +687,7 @@ const characters = [
     },
    {
         name: 'Lapine Lunaire',
-        image: './img/chars/New_deviantart_profile_picture_by_hyperkimara-dab0cme.webp',
+        image: './img/chars/lapine_lunaire.webp',
         wiki: 'https://servantfarm.fandom.com/fr/wiki/Lapine_Lunaire',
     },
    {
@@ -757,7 +757,7 @@ const characters = [
     },
    {
         name: 'Rodion Vassiliévitch',
-        image: './img/chars/RodionVassili%3Fvitch.webp',
+        image: './img/chars/RodionVassilievitch.webp',
         wiki: 'https://servantfarm.fandom.com/fr/wiki/Rodion_Vassiliévitch',
     },
    {
@@ -780,14 +780,65 @@ const characters = [
         image: './img/chars/Zenevo.webp',
         wiki: 'https://servantfarm.fandom.com/fr/wiki/Zenevo_Giullare',
     },
-   {
+    {
         name: 'Élise Bonacieu',
         image: './img/chars/Elise.webp',
         wiki: 'https://servantfarm.fandom.com/fr/wiki/Élise_Bonacieu',
     },
-   {
-        name: 'Élise Bonacieu',
-        image: './img/chars/Elise.webp',
-        wiki: 'https://servantfarm.fandom.com/fr/wiki/Élise_Bonacieu',
+    {
+        name: 'Ahtleyāōtl',
+        image: './img/chars/Ahtleyaotl.png'
+    },
+    {
+        name: 'Laurent Bouhours',
+        image: './img/chars/Laurent_Bouhours.png'
+    },
+    {
+        name: 'Ashley Fishenchips',
+        image: './img/chars/Ashley_Fishenchips.jpg'
+    },
+    {
+        name: 'Lyra d\'Eon Laschtlock',
+        image: './img/chars/Lyra_d\'Eon_Laschtlock.png'
+    },
+    {
+        name: 'Cels d\'Eon Laschtlock',
+        image: './img/chars/Celis_d\'Eon_Laschtlock.png'
+    },
+    {
+        name: 'Naraku Nirami',
+        image: './img/chars/Naraku_Nirami.jpg'
+    },
+    {
+        name: 'Edeweiss d\'Eon',
+        image: './img/chars/Edelweiss_d\'Eon.png'
+    },
+    {
+        name: 'Natacha De Lisle',
+        image: './img/chars/Natacha_de_Lisle.jpg'
+    },
+    {
+        name: 'Ibis D\'Eon Laschtlock',
+        image: './img/chars/Ibis_d\'Eon_Laschtlock.png'
+    },
+    {
+        name: 'Pan Twardowski',
+        image: './img/chars/Pan_Twardowski.png'
+    },
+    {
+        name: 'James Seer',
+        image: './img/chars/James_Seer.jpg'
+    },
+    {
+        name: 'Sakigami Enko',
+        image: './img/chars/Sakigami_Enko.jpg'
+    },
+    {
+        name: 'Kamil Twardowski',
+        image: './img/chars/Kamil_Twardowski.jpg'
+    },
+    {
+        name: 'Cerise Noire',
+        image: './img/chars/Cerise_Noire.png'
     },
 ]

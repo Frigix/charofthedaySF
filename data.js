@@ -841,4 +841,356 @@ const characters = [
         name: 'Cerise Noire',
         image: './img/chars/Cerise_Noire.png'
     },
+    {
+        name: "Abbas Al Muttalib",
+        image: "./img/chars/Abbas_al_Muttalib.png"
+    },
+    {
+        name: "Acheron",
+        image: "./img/chars/Acheron.jpg"
+    },
+    {
+        name: "Adelheid Von Dresch",
+        image: "./img/chars/Adelheid_von_Dresch.webp"
+    },
+    {
+        name: "Agate De La Souche",
+        image: "./img/chars/Agate_de_la_Souche.jpg"
+    },
+    {
+        name: "Agnòs Hayyim",
+        image: "./img/chars/Agnòs_Hayyim.jpg"
+    },
+    {
+        name: "Alex Hangyaku",
+        image: "./img/chars/Alex_Hangyaku.png"
+    },
+    {
+        name: "Aliénor Trencart",
+        image: "./img/chars/Aliénor_Trencart.jpg"
+    },
+    {
+        name: "Angelus (Fake)",
+        image: "./img/chars/Angelus_(Fake).png"
+    },
+    {
+        name: "Banania",
+        image: "./img/chars/Banania.jpg"
+    },
+    {
+        name: "Bionicle De Colress",
+        image: "./img/chars/Bionicle_de_Colress.png"
+    },
+    {
+        name: "Cassandra B",
+        image: "./img/chars/Cassandra_B.png"
+    },
+    {
+        name: "Cecil Murphy",
+        image: "./img/chars/Cecil_Murphy.png"
+    },
+    {
+        name: "Charon Bladdyd",
+        image: "./img/chars/Charon_Bladdyd.webp"
+    },
+    {
+        name: "Cichol Mado",
+        image: "./img/chars/Cichol_Mado.jpg"
+    },
+    {
+        name: "Cichol Mado (Clockwork Onion)",
+        image: "./img/chars/Cichol_Mado_(Clockwork_Onion).png"
+    },
+    {
+        name: "Claude Van Der Bladd.",
+        image: "./img/chars/Claude_van_der_Bladd..jpg"
+    },
+    {
+        name: "Cocytus Von Mado",
+        image: "./img/chars/Cocytus_von_Mado.jpg"
+    },
+    {
+        name: "Colress Van Damo",
+        image: "./img/chars/Colress_van_Damo.png"
+    },
+    {
+        name: "Conrad Gropius",
+        image: "./img/chars/Conrad_Gropius.png"
+    },
+    {
+        name: "Curiosité",
+        image: "./img/chars/Curiosité.jpg"
+    },
+    {
+        name: "Daniel Boreas Il Mosmania",
+        image: "./img/chars/Daniel_Boreas__Il_Mosmania.png"
+    },
+    {
+        name: "Dendris I.M",
+        image: "./img/chars/Dendris_I.M.jpg"
+    },
+    {
+        name: "Dorothée Al Esthner",
+        image: "./img/chars/Dorothée_Al_Esthner.png"
+    },
+    {
+        name: "Désirée",
+        image: "./img/chars/Désirée.png"
+    },
+    {
+        name: "Eber B.",
+        image: "./img/chars/Eber_B..jpg"
+    },
+    {
+        name: "Eber B. (Dark Timeline)",
+        image: "./img/chars/Eber_B._(Dark_Timeline).jpg"
+    },
+    {
+        name: "Eden Bladdyd",
+        image: "./img/chars/Eden_Bladdyd.webp"
+    },
+    {
+        name: "Edgelord Bladdyd",
+        image: "./img/chars/Edgelord_Bladdyd.jpg"
+    },
+    {
+        name: "Edgie Bladdyd",
+        image: "./img/chars/Edgie_Bladdyd.jpg"
+    },
+    {
+        name: "Edgie Bladdyd (F)",
+        image: "./img/chars/Edgie_Bladdyd_(F).jpg"
+    },
+    {
+        name: "Edith Murphy",
+        image: "./img/chars/Edith_Murphy.png"
+    },
+    {
+        name: "Edric Bladdyd",
+        image: "./img/chars/Edric_Bladdyd.jpg"
+    },
+    {
+        name: "Edric Bladdyd (Canopus)",
+        image: "./img/chars/Edric_Bladdyd_(Canopus).jpg"
+    },
+    {
+        name: "Elohim Hayyim",
+        image: "./img/chars/Elohim_Hayyim.jpg"
+    },
+    {
+        name: "Emma Rancher",
+        image: "./img/chars/Emma_Rancher.png"
+    },
+    {
+        name: "Enrique Murphy",
+        image: "./img/chars/Enrique_Murphy.jpg"
+    },
+    {
+        name: "Ernest Mc. Murphy",
+        image: "./img/chars/Ernest_Mc.Murphy.webp"
+    },
+    {
+        name: "Gregson Murphy",
+        image: "./img/chars/Gregson_Murphy.webp"
+    },
+    {
+        name: "Grietje Baas",
+        image: "./img/chars/Grietje_Baas.webp"
+    },
+    {
+        name: "Gros Caillou",
+        image: "./img/chars/Gros_Caillou.webp"
+    },
+    {
+        name: "Gustav Gropius",
+        image: "./img/chars/Gustav_Gropius.webp"
+    },
+    {
+        name: "Hermengarde d'Orléans",
+        image: "./img/chars/Hermengarde_d'Orléans.webp"
+    },
+    {
+        name: "Icare Bladdyd",
+        image: "./img/chars/Icare_Bladdyd.webp"
+    },
+    {
+        name: "Izod de la Souche",
+        image: "./img/chars/Izod_de_la_Souche.png"
+    },
+    {
+        name: "Javier de la Vera",
+        image: "./img/chars/Javier_de_la_Vera.png"
+    },
+    {
+        name: "Jordan Souks",
+        image: "./img/chars/Jordan_Souks.webp"
+    },
+    {
+        name: "Josette Bernard",
+        image: "./img/chars/Josette_Bernard.jpg"
+    },
+    {
+        name: "Josh Blackmore",
+        image: "./img/chars/Josh_Blackmore.png"
+    },
+    {
+        name: "Jésus Le Christ",
+        image: "./img/chars/Jésus_Le_Christ.jpg"
+    },
+    {
+        name: "Karton",
+        image: "./img/chars/Karton.png"
+    },
+    {
+        name: "Klaus Bladdyd",
+        image: "./img/chars/Klaus_Bladdyd.jpg"
+    },
+    {
+        name: "L'Architecte",
+        image: "./img/chars/L'Architecte.jpg"
+    },
+    {
+        name: "Lethe Bari",
+        image: "./img/chars/Lethe_Bari.webp"
+    },
+    {
+        name: "Le Maître",
+        image: "./img/chars/Le_Maître.jpg"
+    },
+    {
+        name: "Liroy Kwol",
+        image: "./img/chars/Liroy_Kwol.jpg"
+    },
+    {
+        name: "Lora Bladud",
+        image: "./img/chars/Lora_Bladud.png"
+    },
+    {
+        name: "Luigi De Luigi",
+        image: "./img/chars/Luigi_DeLuigi.png"
+    },
+    {
+        name: "Medeo Gropius",
+        image: "./img/chars/Medeo_Gropius.webp"
+    },
+    {
+        name: "Mein Führer",
+        image: "./img/chars/Mein_Führer.jpg"
+    },
+    {
+        name: "Mike Literus",
+        image: "./img/chars/Mike_Literus.jpg"
+    },
+    {
+        name: "Mike Oxhuge",
+        image: "./img/chars/Mike_Oxhuge.webp"
+    },
+    {
+        name: "Mélinoë",
+        image: "./img/chars/Mélinoë.jpg"
+    },
+    {
+        name: "Niamh van der Bladd.",
+        image: "./img/chars/Niamh_van_der_Bladd..png"
+    },
+    {
+        name: "Nocta Calvador",
+        image: "./img/chars/Nocta_Calvador.png"
+    },
+    {
+        name: "Oiemouth",
+        image: "./img/chars/Oiemouth.png"
+    },
+    {
+        name: "Omega Lothbrok",
+        image: "./img/chars/Omega_Lothbrok.png"
+    },
+    {
+        name: "Oursmouth",
+        image: "./img/chars/Oursmouth.png"
+    },
+    {
+        name: "Pasquale il Nazzareno",
+        image: "./img/chars/Pasquale_il_Nazzareno.webp"
+    },
+    {
+        name: "Phlegethon Art",
+        image: "./img/chars/Phlegethon_Art.webp"
+    },
+    {
+        name: "Project Adam",
+        image: "./img/chars/Project_Adam.webp"
+    },
+    {
+        name: "Raiko Fujiwase",
+        image: "./img/chars/Raiko_Fujiwase.png"
+    },
+    {
+        name: "Raymond Carpentier",
+        image: "./img/chars/Raymond_Carpentier.jpg"
+    },
+    {
+        name: "Seth",
+        image: "./img/chars/Seth.png"
+    },
+    {
+        name: "Silvio Aggravato (Dark Timeline)",
+        image: "./img/chars/Silvio_Aggravato_(Dark_Timeline).webp"
+    },
+    {
+        name: "Styx Jonn",
+        image: "./img/chars/Styx_Jonn.jpg"
+    },
+    {
+        name: "Sydney Art",
+        image: "./img/chars/Sydney_Art.webp"
+    },
+    {
+        name: "Vandham Bladdyd",
+        image: "./img/chars/Vandham_Bladdyd.webp"
+    },
+    {
+        name: "Venina Barbieri",
+        image: "./img/chars/Venina_Barbieri.webp"
+    },
+    {
+        name: "Vermouth",
+        image: "./img/chars/Vermouth.png"
+    },
+    {
+        name: "William Huncherton",
+        image: "./img/chars/William_Huncherton.webp"
+    },
+    {
+        name: "Yorkmouth",
+        image: "./img/chars/Yorkmouth.png"
+    },
+    { 
+        name: "Charlotte",
+        image: "./img/chars/Charlotte.png"
+    },
+    { 
+        name: "Fabio da Costa",
+        image: "./img/chars/Fabio_da_Costa.webp"
+    },
+    { 
+        name: "Le Corbeau",
+        image: "./img/chars/Le_Corbeau.png"
+    },
+    { 
+        name: "Nari Ha",
+        image: "./img/chars/Nari_Ha.jpg"
+    },                                                                                                                      
+    { 
+        name: "Sunbaeg",
+        image: "./img/chars/Sunbaeg.jpg"
+    },
+    { 
+        name: "Yeon-ae Kiseu",
+        image: "./img/chars/Yeon-ae_Kiseu.png"
+    },
+    { 
+        name: "Yu Geoul",
+        image: "./img/chars/Yu_Geoul.jpg"
+    },
 ]
